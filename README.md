@@ -1,3 +1,3 @@
-# mage-week2
+# Homework Week 2
 
-Chekdc
+Please find my submission for week 2
